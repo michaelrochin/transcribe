@@ -3,6 +3,7 @@ import whisper
 import tempfile
 import os
 import time
+import ffmpeg
 from pathlib import Path
 
 # Page config
